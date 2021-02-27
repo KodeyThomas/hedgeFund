@@ -17,6 +17,8 @@ Open the App, Click Activate, Profit
 ## Current Status
 This is currently a Functional POC, it works however i do not recommend you use it as their are major bug fixes that need to be implimented 
 
+**As of HSBC UK V1.27, This exploit no longer works**
+
 ## Supported Jailbreaks
 hedgeFund is supported on Unc0ver and Checkra1n. Not Tested on Odyssey.
 
